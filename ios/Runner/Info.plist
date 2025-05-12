@@ -44,6 +44,10 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
-	<true/>
+	<true/><key>com.apple.developer.in-app-payments</key>
+<array>
+    <string>merchant.com.example.payment</string>
+</array>
+
 </dict>
 </plist>
