@@ -168,6 +168,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  pay:
+    dependency: "direct main"
+    description:
+      name: pay
+      sha256: "83b15697797f8013bd7693193b9f657bacfe40c5d0a31d4e084caed5fe22d29c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.2.1"
   pay_android:
     dependency: "direct main"
     description:

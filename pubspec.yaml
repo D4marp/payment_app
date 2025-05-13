@@ -22,6 +22,9 @@ dependencies:
   meta: ^1.16.0
   get_it: ^8.0.3
   dartz: ^0.10.1
+  pay: ^3.2.1
+
+
 
 dev_dependencies:
   flutter_test:
@@ -34,5 +37,7 @@ flutter:
 
 
   uses-material-design: true
-
+  assets:
+   - assets/apple_pay_config.json
+   - assets/google_pay_config.json
 
